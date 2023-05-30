@@ -1,6 +1,7 @@
 ## Image-enhancement-using-esrgan-tf2
 
 This repository contains a deep learning project that uses a pre-trained Enhanced Super Resolution GAN (esrgan-tf2) model to improve the resolution of images. <br/>
+
 The real world applications of this technique include:
 
 - Forensic Analysis: It helps forensic experts extract and analyze fine details from crime scene photos, surveillance footage, or digital images, aiding in evidence collection and crime reconstruction.
@@ -24,4 +25,5 @@ Three (3) low resolution images were used, which can be found in the folder abov
 
 
 #### Results
-![Uploading image.png…]()
+![image](https://github.com/Jeremyugo/Image-enhancement-using-ersgan-tf2/assets/36512525/087a24e3-a67a-42b3-b0be-a52ea281bb33)
+
